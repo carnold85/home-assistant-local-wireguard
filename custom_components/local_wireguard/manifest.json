@@ -1,0 +1,9 @@
+{
+    "domain": "local_wireguard",
+    "name": "Local WireGuard",
+    "version": "0.5",
+    "documentation": "https://www.f00bar.org/",
+    "dependencies": [],
+    "codeowners": ["@carnold85"],
+    "requirements": []
+}
